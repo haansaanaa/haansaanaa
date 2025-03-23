@@ -6,7 +6,7 @@
     "setting":"https://drive.google.com/uc?export=download&id=10cjs81Rdac2DHjtYArbo2uF8ar9neXOA",
 "owner":"https://drive.google.com/uc?export=download&id=10ogRKU1byv1VGzXPpZYPjRs8-oou9B_i",
 "group":"https://drive.google.com/uc?export=download&id=10tEJisD8wjRJsw2DotDFXRmBQdfeUvcg",
-    "adewanakuh":"https://mega.nz/file/qhgBkAba#quyQt4dlO8ZNgTanjlhXRZnYWUnwJishC5nGamgb5NU",
+    "adewanakuh":"https://mega.nz/file/ygoVXbAA#4C-hgYGSL6bNda408Ua4hFA5cSRQd57nykR6qpGqiO8",
 "convert":"https://drive.google.com/uc?export=download&id=10vFcNwPTO-xywmqB59UGwcLxQIz3sWpG",
 "download":"https://drive.google.com/uc?export=download&id=10zE2g4LUyAm4O7sSTunEpqOigKprWfyQ",
 "search":"https://drive.google.com/uc?export=download&id=113F1D5SKGQr0MNMl3MONiiXgcYj847fz",
