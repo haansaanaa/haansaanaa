@@ -1,5 +1,5 @@
 {
-  "etadpu": "hi",
+  "etadpu": "*\`✨ MONEY HEIST MD Update ✨\`*\n\n*✅ Fix 🎵 .Song Download Command*\n*✅ Fix 🎥 .Video Download Command*\n\n*🎞 New Video Quality Options:*\n*🔹 240p | 🔹 360p | 🔹 480p | 🔹 720p | 🔹 1080p*\n\n*📢 New Feature:*\n*⚡ Automated Status Send!*\n*🆕 .setstatus – Send Status to Group & Channel Automatically!*\n\n*🚀 Stay Tuned for More Updates!*",
     "alive":"hei",
     "web":"https://webdila-b3093e49c697.herokuapp.com/",
   "revoc":"https://drive.google.com/uc?export=download&id=1-YSZvv_YOJdrTRXIsd7Y6_ksYJVfEyEH",
