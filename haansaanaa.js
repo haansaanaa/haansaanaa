@@ -1,6 +1,6 @@
 {
   "etadpu": "*\`✨ MONEY HEIST MD Update ✨\`*\n\n*✅ Fix 🎵 .Song Download Command*\n*✅ Fix 🎥 .Video Download Command*\n\n*🎞 New Video Quality Options:*\n*🔹 240p | 🔹 360p | 🔹 480p | 🔹 720p | 🔹 1080p*\n\n*📢 New Feature:*\n*⚡ Automated Status Send!*\n*🆕 .setstatus – Send Status to Group & Channel Automatically!*\n\n*🚀 Stay Tuned for More Updates!*",
-    "alive":"*🚀 MONEY HEIST MD - Free Deploy 🔥*\n\n*🎬 Free Deploy Video: https://youtu.be/wk1K5O9yJYQ?si=Wsn5_tlL7f4WBON5*\n*🌍 Repo: 🛠️ https://github.com/moneyheistVIP/MONEY-HEIST-VIP*\n*📂 ZIP: 📥 https://www.mediafire.com/file/am8jxuovn2yi6kj/MONEY-HEIST-VIP-main.zip/file*",
+    "alive":"*🚀 MONEY HEIST MD - Free Deploy 🔥",
     "web":"https://webdila-b3093e49c697.herokuapp.com/",
   "revoc":"https://drive.google.com/uc?export=download&id=1-YSZvv_YOJdrTRXIsd7Y6_ksYJVfEyEH",
     "kramretaw":"*ᴍᴏɴᴇʏ ʜᴇɪꜱᴛ ᴍᴅ*\n* ᴍʀ ᴅɪʟᴀ ᴏꜰᴄ",
