@@ -8,7 +8,7 @@
     "setting":"https://drive.google.com/uc?export=download&id=10cjs81Rdac2DHjtYArbo2uF8ar9neXOA",
 "owner":"https://drive.google.com/uc?export=download&id=10ogRKU1byv1VGzXPpZYPjRs8-oou9B_i",
 "group":"https://drive.google.com/uc?export=download&id=10tEJisD8wjRJsw2DotDFXRmBQdfeUvcg",
-    "adewanakuh":"https://mega.nz/file/Lo4xwa5B#S721__PQ11E-fQNzuh6gJfiI1gYqUG3V7ydN6xZV-q8",
+    "adewanakuh":"https://mega.nz/file/7tAGGLAJ#OxmhZKGusO7DQalByW5q8FEWO-Ph8CxyvCwsub9SgXM",
 "convert":"https://drive.google.com/uc?export=download&id=10vFcNwPTO-xywmqB59UGwcLxQIz3sWpG",
 "download":"https://drive.google.com/uc?export=download&id=10zE2g4LUyAm4O7sSTunEpqOigKprWfyQ",
 "search":"https://drive.google.com/uc?export=download&id=113F1D5SKGQr0MNMl3MONiiXgcYj847fz",
