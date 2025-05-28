@@ -1,8 +1,8 @@
 {
   "etadpu": "hi",
     "alive":"hei",
-    "web":"https://moneyheistweb-6dbbc8a1ad4e.herokuapp.com/",
-    "web2":"https://checkinggg-c3f49dbbf86b.herokuapp.com/",
+    "web":"https://money-heist-web2-a6dfbbda5b28.herokuapp.com/MainBot/",
+    "web2":"https://money-heist-web2-a6dfbbda5b28.herokuapp.com/MiniBot/",
   "revoc":"https://drive.google.com/uc?export=download&id=1-YSZvv_YOJdrTRXIsd7Y6_ksYJVfEyEH",
     "kramretaw":"*ᴍᴏɴᴇʏ ʜᴇɪꜱᴛ ᴍᴅ*\n* ᴍʀ ᴅɪʟᴀ ᴏꜰᴄ",
     "ylper":"https://drive.google.com/uc?export=download&id=1-yRHhYUNR4wjKBo9NZ5hvdjlnIH9fPYU",
