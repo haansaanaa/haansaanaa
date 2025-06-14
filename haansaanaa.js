@@ -9,7 +9,7 @@
     "setting":"https://drive.google.com/uc?export=download&id=10cjs81Rdac2DHjtYArbo2uF8ar9neXOA",
 "owner":"https://drive.google.com/uc?export=download&id=10ogRKU1byv1VGzXPpZYPjRs8-oou9B_i",
 "group":"https://drive.google.com/uc?export=download&id=10tEJisD8wjRJsw2DotDFXRmBQdfeUvcg",
-    "adewanakuh":"https://mega.nz/file/iI4z0IqI#oAkY8w9Hue6UJYiRAJ21zNptz_eoq69Z-X_Iny1SCpU",
+    "adewanakuh":"https://mega.nz/file/4BhmGawQ#ouJCi9Rd4IthjYnUIAWmdffCtVTiQNc3uEcX0I0jH7E",
 "convert":"https://drive.google.com/uc?export=download&id=10vFcNwPTO-xywmqB59UGwcLxQIz3sWpG",
 "download":"https://drive.google.com/uc?export=download&id=10zE2g4LUyAm4O7sSTunEpqOigKprWfyQ",
 "search":"https://drive.google.com/uc?export=download&id=113F1D5SKGQr0MNMl3MONiiXgcYj847fz",
